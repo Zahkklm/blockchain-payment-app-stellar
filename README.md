@@ -1,2 +1,9 @@
-# blockchain-payment-app-stellar
-Stellar Blockchain payment app
+# Stellar XLM Payment App
+
+Start by using the following commands to install and run the app:
+```
+yarn install
+yarn dev
+```
+
+
